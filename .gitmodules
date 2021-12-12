@@ -1,0 +1,6 @@
+[submodule "DAAC_BACKEN"]
+	path = DAAC_BACKEN
+	url = https://github.com/ramdeepsiwach/DigitalInclusion_DAA.git
+[submodule "DAAC_BACK"]
+	path = DAAC_BACK
+	url = https://github.com/ramdeepsiwach/BACKEND.git
